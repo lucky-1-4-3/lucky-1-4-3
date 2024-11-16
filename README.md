@@ -5,8 +5,7 @@
 - 🌱 I’m currently expanding my skills in the MERN stack and Android development.
 - 💞️ I’m looking to collaborate on innovative projects that utilize Java, JavaScript, and frameworks like Spring Boot and React.
 - 📫 How to reach me: [abi@lucky.soul](mailto:abinashbehera9889@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love building systems that enhance user experience, like hospital management apps!
+- ⚡ Fun fact: I love learning new things all the time
 
 <!---
 lucky-1-4-3/lucky-1-4-3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
