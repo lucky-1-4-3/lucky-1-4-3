@@ -17,5 +17,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucky-1-4-3&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucky-1-4-3/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lucky-1-4-3&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/lucky-1-4-3/github-readme-stats#gh-light-mode-only)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucky-1-4-3)](https://github.com/lucky-1-4-3/github-readme-stats)
+![Top Langs-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-1-4-3&layout=compact&theme=dark)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucky_world29)](https://github.com/lucky-1-4-3/github-readme-stats)
+
